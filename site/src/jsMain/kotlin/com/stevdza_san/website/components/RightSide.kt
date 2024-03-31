@@ -27,7 +27,7 @@ fun RightSide(breakpoint: Breakpoint) {
         Image(
             modifier = Modifier
                 .fillMaxSize()
-                .objectFit(ObjectFit.Cover),
+                .objectFit(ObjectFit.Fill),
             src = Res.Image.PROFILE_PHOTO
         )
     }

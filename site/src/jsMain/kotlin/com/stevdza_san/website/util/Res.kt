@@ -29,12 +29,12 @@ object Res {
     }
 
     object Image {
-        const val PROFILE_PHOTO = "photo.jpg"
+        const val PROFILE_PHOTO = "jilani_sayyed.png"
     }
 
     object String {
-        const val NAME = "Stefan Jovanovic"
-        const val PROFESSION = "Kotlin Multiplaform Developer"
+        const val NAME = "Jilani Sayyed"
+        const val PROFESSION = "Song Writer"
         const val ABOUT_ME =
             "Lorem ipsum dolor sit amet, nisl tempus lorem adipiscing elit. Donec sollicitudin blandit tellus, ac sagittis ligula egestas consequat. Lorem ipsum dolor sit amet."
         const val BUTTON_TEXT = "Get in touch"
