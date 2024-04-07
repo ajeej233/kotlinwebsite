@@ -91,7 +91,7 @@ fun LeftSide(
             modifier = ButtonStyle.toModifier()
                 .margin(bottom = 50.px),
             size = ButtonSize.LG,
-            onClick = { window.location.href = Res.String.MY_EMAIL }
+            onClick = { window.location.href = "/gallery" }
         ) {
             Image(
                 modifier = Modifier.margin(right = 12.px),

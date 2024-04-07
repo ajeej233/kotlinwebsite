@@ -34,10 +34,11 @@ object Res {
 
     object String {
         const val NAME = "Jilani Sayyed"
-        const val PROFESSION = "Song Writer"
+        const val PROFESSION = "Recording studio contractor"
         const val ABOUT_ME =
-            "Lorem ipsum dolor sit amet, nisl tempus lorem adipiscing elit. Donec sollicitudin blandit tellus, ac sagittis ligula egestas consequat. Lorem ipsum dolor sit amet."
-        const val BUTTON_TEXT = "Get in touch"
+            "Our team consists of skilled audio engineers, producers, and technicians who are passionate about their craft. With years of experience in the industry, we have the knowledge and expertise to handle projects of any size and complexity.\n" +
+                    "Contact us today to learn more about our services and schedule your recording session. Your next masterpiece awaits!"
+        const val BUTTON_TEXT = "Visit work"
         const val ROBOTO_CONDENSED = "RobotoCondensedBold"
         const val ROBOTO_REGULAR = "RobotoRegular"
         const val MY_EMAIL = "mailto:stefan.jovanavich@gmail.com"
