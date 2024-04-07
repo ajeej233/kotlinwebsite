@@ -33,7 +33,7 @@ object Res {
     }
 
     object String {
-        const val NAME = "Jilani Sayyed"
+        const val NAME = "Syed Jilani "
         const val PROFESSION = "Recording studio contractor"
         const val ABOUT_ME =
             "Our team consists of skilled audio engineers, producers, and technicians who are passionate about their craft. With years of experience in the industry, we have the knowledge and expertise to handle projects of any size and complexity.\n" +
