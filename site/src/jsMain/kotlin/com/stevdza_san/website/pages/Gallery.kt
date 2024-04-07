@@ -39,7 +39,7 @@ fun Gallery(){
         // Add more image URLs as needed
     )
     Column(Modifier.fillMaxSize()) {
-        Box(Modifier.fillMaxWidth().height(50.px).background(Color.deeppink).border(2.px)) {
+        Box(Modifier.fillMaxWidth().height(50.px).background(Color.deeppink).border(width = 2.px, color = Color.white)) {
             SpanText(
                 text = "Galley",
                 modifier = Modifier.fillMaxWidth().fillMaxHeight()
